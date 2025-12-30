@@ -2,7 +2,10 @@ User Management Dashboard
 
 A responsive User Management Application built with React.js. This application allows users to perform CRUD (Create, Read, Update, Delete) operations by interacting with the JSONPlaceholder API.
 
-Live Demo: [https://usermanagementdashboard-assignment-6.netlify.app/]
+
+🔗 **Live Demos:**
+- [View on Netlify](https://usermanagementdashboard-assignment-6.netlify.app/)
+- [View on Vercel](https://assignment-6-user-management-dashbo.vercel.app/)
 
 Features
 
